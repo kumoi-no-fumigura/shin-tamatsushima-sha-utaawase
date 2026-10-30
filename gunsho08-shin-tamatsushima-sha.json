@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shin-tamatsushima-sha-utaawase",
  "yomi": "しんたまつしましゃうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（九十九番・三題）",
+  "era": "貞治6年（1367）3月23日",
+  "author": "判者 冷泉為秀",
+  "desc": "和歌の神をまつる新玉津島社への奉納の歌合。浦霞・尋花・神祇の三題で、二条良基・足利義詮・佐々木導誉ら公家と武家の歌人が九十九番を詠む。為秀が題者・読師・判者をつとめた。"
+ },
  "editions": [
   {
    "pid": "1879502",
